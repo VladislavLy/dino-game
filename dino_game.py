@@ -161,6 +161,3 @@ while run:
     draw_window()
 
 pygame.quit()
-
-
-
